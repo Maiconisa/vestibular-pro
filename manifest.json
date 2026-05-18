@@ -1,0 +1,26 @@
+{
+  "short_name": "Vestibular Pro",
+  "name": "Síndromes Vestibulares — Fisioterapia",
+  "description": "Guia clínico de referência em síndromes vestibulares para fisioterapeutas e fonoaudiólogos.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#080C12",
+  "background_color": "#080C12",
+  "lang": "pt-BR",
+  "categories": ["medical", "education", "health"]
+}
